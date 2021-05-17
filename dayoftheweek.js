@@ -1,5 +1,5 @@
 const dayOfTheWeek = day => {   //function (dayOfTheWeek) is to choose the variable argument (day)
-    switch (day) {              //switches the console message based on the case input into the function
+    switch (day) {              // defines the variable and switches the console message based on the case input into the function
         case "Monday":
         case "Tuesday":
         case "Wednesday":
